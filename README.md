@@ -110,12 +110,12 @@ To start contributing, follow the below guidelines:
 
 **0.**  Take a look at the existing [issues](https://github.com/QAZIMAAZARSHAD/Apni-Dukaan/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-**1.**  Fork [this](https://github.com/QAZIMAAZARSHAD/Apni-Dukaan) repository.
+**1.**  Fork [this](https://github.com/officialp123/ApniDukaan-Online-shopping) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_user_name>/Apni-Dukaan.git
+git clone --depth 1 https://github.com/officialp123/ApniDukaan-Online-shopping
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -127,7 +127,7 @@ cd Apni-Dukaan
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/QAZIMAAZARSHAD/Apni-Dukaan.git 
+git remote add upstream https://github.com/officialp123/ApniDukaan-Online-shopping
 ```
 
 **5.** Check the remotes for this repository.
