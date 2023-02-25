@@ -82,9 +82,7 @@ ApniDukaan.com is a site where everyone gets everything they need. ApniDukaan.co
 </div>
 </p>
 
-## Link to the Website
 
-https://qazimaazarshad.github.io/Apni-Dukaan/
 
 ## Tech Stack
 
